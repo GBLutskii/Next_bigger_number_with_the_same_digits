@@ -12,4 +12,4 @@ If the digits can't be rearranged to form a bigger number, return -1 :
 111 ==> -1
 531 ==> -1
 
-P.S.: You may paste the code from class Next_bigger_number_with_the_same_digits to check it on codewars.com or run the Program.cs with attached class to check it on your PC with your own test strings.
+P.S.: You may paste the code from class next_bigger_number_with_the_same_digits to check it on codewars.com or run the Program.cs with attached class to check it on your PC with your own test strings.
