@@ -1,6 +1,4 @@
 # Next_bigger_number_with_the_same_digits
- 
-Some challenge from Codewars (read more https://www.codewars.com/kata/55983863da40caa2c900004e/csharp)
 
 Create a function that takes a positive integer and returns the next bigger number that can be formed by rearranging its digits. 
 For example: 12 ==> 21; 513 ==> 531; 2017 ==> 2071;
